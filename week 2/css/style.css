@@ -7,7 +7,7 @@ h1{
 
 
 p {
-  background-color: #bfbfbf;
+  background-color: #8c8c8c;
   height: 150px;
   margin-right: 10px;
   border: 2px solid black;
@@ -22,7 +22,7 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
+  background-color: #FFB6C1;
   position: absolute;
   top: 0;
   right: 0;
@@ -31,25 +31,24 @@ p {
   font-weight: bold;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
 
 }
 #p2 {
-  background-color:#C14543 ;
+  background-color: #e35959 ;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  color: white;
   height: 35px;
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
 
 }
 #p3 {
-  background-color: #E5D198;
+  background-color: #deb645;
   position: absolute;
   top: 0;
   right: 0;
@@ -58,7 +57,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
 
 }
 
@@ -85,7 +84,6 @@ p {
   }
   .col-lg-4 {
     width: 33.33%;
-  
   }
   .col-lg-5 {
     width: 41.66%;
