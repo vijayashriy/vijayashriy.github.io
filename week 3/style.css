@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color:#292629;
+color: #31abad;
+}
+body{
+	background-color: #31abad;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#31abad; 
+}
+
+.center{
+	width: 90%;
+	background-color: #292629;
+
+}
+.container
+{
+	background-color: #292629;
+}
+.text-center{
+	font-size: 30px;
+        color: black;
+}
+
+h2{
+	text-align: center;
+        
+}
+#myNavbar ul li a {
+	color: #31abad;
+}
+.navbar-brand{
+font-size: 30px;	
+}
